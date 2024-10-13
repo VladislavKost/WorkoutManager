@@ -1,0 +1,15 @@
+.workout-list {
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.workout-list-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 520px;
+}

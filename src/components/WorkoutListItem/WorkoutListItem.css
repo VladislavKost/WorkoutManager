@@ -1,0 +1,29 @@
+.workout-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 520px;
+}
+
+.workout-item-date {
+    font-size: 18px;
+    font-weight: bold;
+    width: 40%;
+}
+
+.workout-item-km {
+    font-size: 18px;
+    font-weight: bold;
+    width: 40%;
+}
+
+.workout-item-edit {
+    width: 10%;
+}
+
+.workout-item-delete {
+    width: 10%;
+}
